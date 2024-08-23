@@ -10,7 +10,8 @@ bool isBinary(string &s) {
     }
     return true;
 }
-
+// 
+// 
 int main() {
     // Create a map to store binary numbers and their string representations
     map<int, string> binaryMap;
